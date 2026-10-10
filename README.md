@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa-moula-4a149b377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alaamoula50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/XalaX07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -27,10 +27,11 @@ I'm an **IT student** passionate about technology, software development, and tur
 I enjoy exploring modern web technologies, experimenting with Generative AI, and building projects that help me improve my technical skills.
 
 - 💻 Exploring **Web Development** and modern frontend technologies.
+- ⚙️ Developing backend skills with **PHP, Python, SQL, and MySQL**.
 - 🤖 Learning about **Generative AI** and AI-powered development tools.
 - 🎨 Interested in **UI/UX design** and creating intuitive user experiences.
 - 📱 Exploring **Mobile Development** and cross-platform applications.
-- 📊 Interested in **Data Science** and the potential of data-driven solutions.
+- 📊 Interested in **Data Science** and data-driven solutions.
 - 🌱 Continuously learning, experimenting, and building real-world projects.
 - 🤝 Open to collaboration, internship opportunities, and connecting with fellow developers.
 
@@ -40,44 +41,58 @@ I enjoy exploring modern web technologies, experimenting with Generative AI, and
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,php" alt="Web development technologies"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" alt="Frontend technologies" />
 </p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs" alt="Backend technologies" />
+</p>
+
+- 🐘 **PHP** — Server-side programming and backend logic
+- 🐍 **Python** — Backend development and AI-powered applications
+- 🟢 **Node.js** — JavaScript runtime for backend development
 
 ### 🐍 Programming Languages & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,php,js,ts,sql" alt="Programming languages and databases"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,php,js,ts,nodejs,sql,mysql,postgres,mongodb" alt="Programming languages and databases" />
 </p>
 
-### ⚙️ Tools & Technologies
+### 🧰 Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools" />
 </p>
 
-### 🧠 Other Interests
+### 🧠 AI & Design
 
-- Generative AI for Web Developers
-- AI Prompt Engineering
-- UI/UX Design
-- Responsive Web Design
+- 🤖 Generative AI for Web Developers
+- ✨ AI Prompt Engineering
+- 🎨 UI/UX Design
+- 📱 Responsive Web Design
+
+### 🚀 Other Interests
+
 - Mobile Application Development
 - Data Science
+- Full-Stack Web Development
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XalaX07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Alaa's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XalaX07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XalaX07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Alaa's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XalaX07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XalaX07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=XalaX07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -85,7 +100,7 @@ I enjoy exploring modern web technologies, experimenting with Generative AI, and
 ## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" />
 </p>
 
 ---
@@ -93,7 +108,8 @@ I enjoy exploring modern web technologies, experimenting with Generative AI, and
 ## 🎯 Current Goals
 
 - 🚀 Build and publish more practical projects.
-- 💡 Improve my skills in React, Next.js, TypeScript, and Python.
+- 💡 Improve my skills in React, Next.js, TypeScript, PHP, and Python.
+- 🗄️ Strengthen my knowledge of SQL, MySQL, PostgreSQL, and MongoDB.
 - 🤖 Explore how Generative AI can improve software development.
 - 🤝 Contribute to collaborative and open-source projects.
 - 💼 Find internship opportunities and gain professional experience.
@@ -106,10 +122,10 @@ I'm always interested in meeting developers, exchanging ideas, and collaborating
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa-moula-4a149b377/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:alaamoula50@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+    <img src="https://img.shields.io/badge/Send%20an%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
 
